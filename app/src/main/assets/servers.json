@@ -1,0 +1,15 @@
+{
+  "servers": [
+    {
+      "name": "MAIN SERVER",
+      "ip": "188.127.241.74",
+      "port": 5314,
+      "subtitle": "Frame Rp",
+      "title": "Tomsk",
+      "description": "Добро пожаловать на сервер. Здесь пишется описание проекта, новости и обновления.",
+      "telegram": "",
+      "vk": "",
+      "discord": ""
+    }
+  ]
+}
