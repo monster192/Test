@@ -8,7 +8,7 @@ val launchMode    = "intent"
 // Имя библиотеки для режима "jni": "Plugin" означает файл libPlugin.so (кладётся в app/src/main/jniLibs/<abi>/).
 val nativeLib     = "Plugin"
 // Пакет приложения-клиента для режима "intent" (например "com.company.client"). Пусто = клиент не подключён.
-val clientPackage = "com.example.crmpclient"
+val clientPackage = "com.br.cbt"
 // ===================================================================
 
 plugins {
